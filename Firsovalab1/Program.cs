@@ -59,6 +59,7 @@
             double temp = double.Parse(Console.ReadLine());
             double temp2 = temp * 1.8 + 32;
             Console.WriteLine($"Температура в градусах Фаренгейта:{temp2}");
+
         }
     }
 }
